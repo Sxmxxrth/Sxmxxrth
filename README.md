@@ -5,7 +5,11 @@
 <p align="center">
   <a href="https://linkedin.com/in/samarthz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:samarthz.icloud@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sxmxxrth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://sxmxxrth.github.io"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sxmxxrth&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -38,53 +42,33 @@ class SamarthSugandhi:
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🇮🇳 Indic LLM RAG Evaluator</h3>
+      <p align="center">
+        <a href="https://github.com/Sxmxxrth/indic-llm-rag-evaluator">
+          <img src="https://img.shields.io/badge/GenAI-Sovereign_AI-FF9933?style=for-the-badge" />
+        </a>
+      </p>
+      <p>A specialized RAG evaluation framework optimized for <strong>Hindi and Code-Mixed (Hinglish)</strong> datasets. Built as a Proof-of-Work demonstrating expertise in Indic NLP.</p>
+      <p><code>LangChain</code> <code>ChromaDB</code> <code>RAGAS</code> <code>HuggingFace</code></p>
+    </td>
+    <td width="50%">
       <h3 align="center">🤖 AI Research Agent</h3>
       <p align="center">
         <a href="https://github.com/Sxmxxrth/ai-research-agent">
           <img src="https://img.shields.io/badge/LangGraph-Agent-7C3AED?style=for-the-badge" />
         </a>
       </p>
-      <p>Multi-step AI research agent built with <strong>LangGraph</strong> — plans research strategies, searches the web, analyzes findings, and synthesizes comprehensive reports.</p>
-      <p><code>LangGraph</code> <code>LangChain</code> <code>Tavily</code> <code>FastAPI</code> <code>Streamlit</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📄 Mutual Fund RAG</h3>
-      <p align="center">
-        <a href="https://github.com/Sxmxxrth/mutual-fund-rag">
-          <img src="https://img.shields.io/badge/RAG-Pipeline-3B82F6?style=for-the-badge" />
-        </a>
-      </p>
-      <p>Production-ready RAG pipeline for mutual fund document Q&A. <strong>0.81 context precision</strong> on RAGAS benchmarks.</p>
-      <p><code>LangChain</code> <code>ChromaDB</code> <code>FastAPI</code> <code>Streamlit</code> <code>RAGAS</code></p>
+      <p>Multi-step AI research agent built with <strong>LangGraph</strong> — plans research strategies, searches the web, analyzes findings, and synthesizes reports autonomously.</p>
+      <p><code>LangGraph</code> <code>LangChain</code> <code>Tavily</code> <code>FastAPI</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 💼 Experience
+### 🌟 Open Source Contributions
 
-| Role | Company | Duration | Highlights |
-|------|---------|----------|------------|
-| **ML Engineer Intern** | Osiya Tech | Dec 2025 – May 2026 | Fine-tuned Mistral-7B (QLoRA), 23% accuracy improvement, 500+ daily requests |
-| **AI/ML Intern** | Raletta Studios | Jun 2023 – Sep 2023 | Text classification (87% accuracy), recommendation engine |
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+- 🔗 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — Contributed official documentation on **Evaluating RAG Pipelines with Indic/Code-Mixed Languages**.
 
 ---
 
@@ -92,7 +76,7 @@ class SamarthSugandhi:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sxmxxrth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C3AED&icon_color=3B82F6&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sxmxxrth&theme=tokyonight&hide_border=true&background=0A0A0F&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxmxxrth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C3AED&text_color=c9d1d9" width="48%" />
 </p>
 
 ---
