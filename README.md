@@ -68,7 +68,7 @@ class SamarthSugandhi:
 
 ### 🌟 Open Source Contributions
 
-- 🔗 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** — Contributed official documentation on **Evaluating RAG Pipelines with Indic/Code-Mixed Languages**.
+- 🔗 **[langchain-ai/langchain#38517](https://github.com/langchain-ai/langchain/pull/38517)** — Added `IndicTextSplitter` to `langchain-text-splitters` for natively chunking Hindi and Code-Mixed text in RAG pipelines.
 
 ---
 
