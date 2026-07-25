@@ -24,8 +24,8 @@
       <h3>🚀 What I'm currently working on</h3>
       <ul>
         <li>🤖 Fine-tuning <b>Mistral & LLaMA</b> models via QLoRA</li>
-        <li>🔍 Architecting highly-scalable <b>RAG Pipelines</b></li>
-        <li>⚙️ Serving ML models using <b>FastAPI, Docker, & Celery</b></li>
+        <li>🔍 Architecting privacy-first <b>Local RAG Pipelines</b></li>
+        <li>⚙️ Serving ML models using <b>FastAPI, Next.js, & Docker</b></li>
       </ul>
       <br/>
       <h3>⚡ Fun Fact</h3>
@@ -40,7 +40,7 @@
         </a><br>
         <!-- Backend & DB -->
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,sqlite,docker&theme=dark" />
+          <img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,mysql,docker&theme=dark" />
         </a><br>
         <!-- Tools -->
         <a href="https://skillicons.dev">
@@ -53,18 +53,34 @@
 
 ---
 
-<h3 align="center">🏆 Featured ML Projects</h3>
+<h3 align="center">🏆 Featured AI & Machine Learning Portfolio</h3>
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <b><a href="https://github.com/Sxmxxrth/mutual-fund-rag">Mutual Fund RAG Assistant</a></b><br><br>
-        PDF-to-Vector Q&A system achieving <b>0.81 Context Precision</b>. Built using FAISS, sentence-transformers, and FastAPI. Evaluated with the RAGAS framework.
+      <td width="50%" align="center" valign="top">
+        <b><a href="https://github.com/Sxmxxrth/market-sentiment-engine">📊 Market Sentiment Engine</a></b><br><br>
+        Full-stack financial NLP application. Scrapes live Yahoo Finance headlines in real-time via <b>FastAPI</b> & <b>BeautifulSoup4</b>, computes sentiment using <b>VADER NLP</b>, and renders on a reactive <b>Next.js 15 Tailwind CSS</b> dashboard.
       </td>
-      <td width="50%" align="center">
-        <b><a href="https://github.com/Sxmxxrth/Financial_Chatbot">LLM Financial Q&A Chatbot</a></b><br><br>
-        Local, privacy-first <b>Mistral LLM</b> chat interface with full PostgreSQL session persistence and an interactive Streamlit UI. Dockerized for deployment.
+      <td width="50%" align="center" valign="top">
+        <b><a href="https://github.com/Sxmxxrth/omni-rag-assistant">📚 OmniRAG Assistant</a></b><br><br>
+        100% local, privacy-first Retrieval-Augmented Generation (RAG) pipeline. Built with <b>LangChain</b>, <b>ChromaDB</b> vector store, HuggingFace embeddings, and <b>Ollama (Llama 3)</b> for zero-API-cost document Q&A with citations.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <b><a href="https://github.com/Sxmxxrth/ml-credit-card-fraud">💳 Credit Card Fraud Detection</a></b><br><br>
+        Real-time anomaly detection REST API using <b>FastAPI</b> and <b>XGBoost</b>. Specifically engineered to handle severe class imbalance (99.8% normal vs 0.2% fraud) using dynamic `scale_pos_weight` optimization and Pydantic validation.
+      </td>
+      <td width="50%" align="center" valign="top">
+        <b><a href="https://github.com/Sxmxxrth/ml-customer-churn">📉 Customer Churn Prediction</a></b><br><br>
+        End-to-end classification pipeline tackling imbalanced customer data using <b>SMOTE (Synthetic Minority Over-sampling Technique)</b> and a <b>Random Forest Classifier</b>. Includes an interactive Streamlit risk-profiling UI.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top" colspan="2">
+        <b><a href="https://github.com/Sxmxxrth/ml-house-price-predictor">🏡 California House Price Predictor</a></b><br><br>
+        Full Exploratory Data Analysis (EDA) and Scikit-Learn regression suite comparing Ridge Regression against Random Forest Ensembles. Features interactive Seaborn distribution visualizations and live price modeling.
       </td>
     </tr>
   </table>
