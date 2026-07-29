@@ -104,3 +104,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sxmxxrth/Sxmxxrth/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+### 🌟 New Enterprise Flagship Projects
+- **[llm-code-reviewer-cicd](https://github.com/Sxmxxrth/llm-code-reviewer-cicd)**: Autonomous LLM Pull Request Reviewer & Automated CI/CD Code Refactoring Bot
+- **[hft-order-matching-engine](https://github.com/Sxmxxrth/hft-order-matching-engine)**: Low-Latency Order Book Matching Engine & Quantitative Strategy Backtester
+- **[enterprise-multitenant-rag](https://github.com/Sxmxxrth/enterprise-multitenant-rag)**: Secure Multi-Tenant RAG Knowledge Base with strict RBAC
+- **[ai-sql-query-optimizer](https://github.com/Sxmxxrth/ai-sql-query-optimizer)**: AI-powered database index advisor and SQL query rewriter
